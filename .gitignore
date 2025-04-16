@@ -8,6 +8,3 @@
 .DS_Store
 .sib/
 /webview/
-/plugins/sonic-go-mitmproxy*
-/plugins/sonic-ios-bridge*
-/plugins/sonic-android-supply*
